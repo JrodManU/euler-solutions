@@ -1,1 +1,1 @@
-# euler-solutions
+# euler-solutions-java
